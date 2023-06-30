@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Handlee&family=Ysabeau+Infant:wght@100&display=swap");
+* {
+  padding: 0;
+  margin: 0;
+}
+.Contenedor-reclamos {
+  width: 50%;
+  height: 60vh;
+  text-align: center;
+  margin: auto;
+  margin-top: 10vh;
+}
+.txt-r {
+  margin-top: 1vh;
+  font-family: "Handlee", cursive;
+  font-family: "Ysabeau Infant", sans-serif;
+  text-align: center;
+  font-size: 5rem;
+  color: azure;
+}
+body {
+  background: #333333; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #dd1818,
+    #333333
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #dd1818,
+    #333333
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.form-a {
+  background-color: aliceblue;
+  width: 60%;
+  border-radius: 25px;
+  margin: auto;
+  height: 100%;
+}

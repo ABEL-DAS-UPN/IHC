@@ -1,0 +1,58 @@
+[
+    {
+        "URL_IMAGEN": "./img/Parrillas/lomo.jpeg",
+        "ID_PRODUCTO": 1,
+        "NOMBRE": "Alitas Picantes",
+        "TITULO": "Alitas Hot",
+        "PRECIO": 90,
+        "CATEGORIA": "Pollos"
+    },
+    {
+        "URL_IMAGEN": "./img/Parrillas/lomo.jpeg",
+        "ID_PRODUCTO": 2,
+        "NOMBRE": "Plato Familiar",
+        "TITULO": "Plato Familiar",
+        "PRECIO": 50,
+        "CATEGORIA": "Pollos"
+    },
+    {
+        "URL_IMAGEN": "./img/Parrillas/lomo.jpeg",
+        "ID_PRODUCTO": 3,
+        "NOMBRE": "Lomo Saltado",
+        "TITULO": "Lomo Asaltado",
+        "PRECIO": 60,
+        "CATEGORIA": "Parrillas"
+    },
+    {
+        "URL_IMAGEN": "./img/Parrillas/lomo.jpeg",
+        "ID_PRODUCTO": 4,
+        "NOMBRE": "Plato 2",
+        "TITULO": "Plato 2",
+        "PRECIO": 90,
+        "CATEGORIA": "Parrillas"
+    },
+    {
+        "URL_IMAGEN": "./img/Parrillas/lomo.jpeg",
+        "ID_PRODUCTO": 5,
+        "NOMBRE": "Plato 3",
+        "TITULO": "Plato 3",
+        "PRECIO": 90,
+        "CATEGORIA": "Bebidas"
+    },
+    {
+        "URL_IMAGEN": "./img/Parrillas/lomo.jpeg",
+        "ID_PRODUCTO": 5,
+        "NOMBRE": "Plato 3",
+        "TITULO": "Plato 3",
+        "PRECIO": 90,
+        "CATEGORIA": "Bebidas"
+    },
+    {
+        "URL_IMAGEN": "./img/Parrillas/lomo.jpeg",
+        "ID_PRODUCTO": 5,
+        "NOMBRE": "Plato 3",
+        "TITULO": "Plato 3",
+        "PRECIO": 90,
+        "CATEGORIA": "Bebidas"
+    }
+]
